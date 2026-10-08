@@ -1,3 +1,4 @@
+![HardcoreMarathonReset showcase](assets/showcase.mp4)
 # HardcoreMarathonReset – Complete Beginner Setup Guide
 
 This walks you from "nothing installed" to a running hardcore-marathon server, on **Windows**
